@@ -1,12 +1,12 @@
 # Project 3 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammate's contact info, if appropriate)
+Benjamin Chang, bmc011@ucsd.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+The goal of this project is to create a generative audio network which produces new music in the style of Beethovan piano music. This is done using a RNN so that the music can hopefully build off of its previous parts. Generating new music belonging to Beethovan using ML is awesome because it allows us to listen to music that Beethovan may have written.
+
+"Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions."
 
 ## Model/Data
 
@@ -40,3 +40,7 @@ References to any papers, techniques, repositories you used:
 - Papers
 - Repositories
 - Blog posts
+
+https://github.com/tensorflow/magenta/tree/master/magenta/models/performance_rnn
+https://towardsdatascience.com/generate-piano-instrumental-music-by-using-deep-learning-80ac35cdbd2e
+
