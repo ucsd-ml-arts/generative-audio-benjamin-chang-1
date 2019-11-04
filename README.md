@@ -4,7 +4,11 @@ Benjamin Chang, bmc011@ucsd.edu
 
 ## Abstract
 
-The goal of this project is to create a generative audio network which produces new music in the style of Beethovan piano music. This is done using a RNN so that the music can hopefully build off of its previous parts. Generating new music belonging to Beethovan using ML is awesome because it allows us to listen to music that Beethovan may have written.
+The goal of this project is to try to prove that it is possible to use generative and interpolation audio networks to replicate particular music genres. In particular, this project aims to create new music in the future funk genre using GANSynth to interpolate between various instruments and Performance RNN to produce different tracks. This will be done by manipulating parameters in the The Future Funk lyrics will likely be added later to the generated music.
+
+The idea is as follows: 1. Generate Music tracks using Performance RNN
+                        2. Perform signal manipulation as needed
+                        3. Combine tracks using GANSynth
 
 "Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions."
 
