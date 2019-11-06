@@ -4,7 +4,7 @@ Benjamin Chang, bmc011@ucsd.edu
 
 ## Abstract
 
-The goal of this project is to try to prove that it is possible to use generative and interpolation audio networks to replicate particular music genres. In particular, this project aims to create new music in the future funk genre using GANSynth to interpolate between various instruments and Performance RNN to produce different tracks. This will be done by manipulating parameters in the The Future Funk lyrics will likely be added later to the generated music.
+The goal of this project is to try to prove that it is possible to use generative and interpolation audio networks to replicate particular music genres. In particular, this project aims to create music in this new genre named steamfunk disco using GANSynth to interpolate between various instruments and Performance RNN to produce a coherent track. This will be done by manipulating parameters in the The Steamfunk Disco's lyrics will likely be added later to the generated music.
 
 The idea is as follows: 1. Generate Music tracks using Performance RNN
                         2. Perform signal manipulation as needed
