@@ -14,15 +14,18 @@ The idea is as follows: 1. Generate Music tracks using Performance RNN
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+Models
+
+Data
+Hoedown_WAV.wav
+Achy-Breaky-Heart_WAV.wav
+We_Are_Family_WAV.wav
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+Project_2_Generative_Audio.ipynb
+Link to Colab below:
+https://drive.google.com/open?id=1RD4dr6CO9b0D3RhU4D8X7tb2Ii13u79f
 
 ## Results
 
@@ -47,4 +50,5 @@ References to any papers, techniques, repositories you used:
 
 https://github.com/tensorflow/magenta/tree/master/magenta/models/performance_rnn
 https://towardsdatascience.com/generate-piano-instrumental-music-by-using-deep-learning-80ac35cdbd2e
+http://rosemck1.tripod.com/jukebox-country.html
 
