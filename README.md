@@ -15,11 +15,17 @@ The idea is as follows: 1. Generate Music tracks using Performance RNN
 ## Model/Data
 
 Models
+- Performance_RNN - used to generate new music using only a neural network
+- GANSynth - used for interpolation of music transitions and for creating unique sounds
 
 Data
-Hoedown_WAV.wav
-Achy-Breaky-Heart_WAV.wav
-We_Are_Family_WAV.wav
+- Unmodified_Data
+  - Hoedown_WAV.wav
+  - Achy-Breaky-Heart_WAV.wav
+  - We_Are_Family_WAV.wav
+
+- Generated_Data
+  - sample_output.mid
 
 ## Code
 
