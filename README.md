@@ -16,8 +16,8 @@ Future directions for this work could include generating a greater variety of ba
 ## Model/Data
 
 Models
-- Performance_RNN - used to generate new music using only a neural network
-- GANSynth - used for interpolation of music transitions and for creating unique sounds
+  - Performance_RNN - used to generate new music using only a neural network
+  - GANSynth - used for interpolation of music transitions and for creating unique sounds
 
 Data
 -Unmodified_Data 
@@ -33,19 +33,22 @@ Data
 
 Project_2_Generative_Audio.ipynb
 Link to Colab below:
-https://drive.google.com/open?id=1RD4dr6CO9b0D3RhU4D8X7tb2Ii13u79f
+  - https://drive.google.com/open?id=1RD4dr6CO9b0D3RhU4D8X7tb2Ii13u79f
 
 ## Results
 
 Final Video Result
-https://www.youtube.com/watch?v=f0o3SnGUmi0
+  - https://www.youtube.com/watch?v=f0o3SnGUmi0
+
+Mixed Sound File (.mp3)
+  - Project_2_Generative_Audio.mp3
 
 Mixed Sound
-https://www.soundtrap.com/studio/KcQILp-qS0u9kIEYH1DSgg/
+  - https://www.soundtrap.com/studio/KcQILp-qS0u9kIEYH1DSgg/
 
 Modified Sound Files
-- We_Are_Family_WAV.wav
-- sample_output.mid
+  - We_Are_Family_WAV.wav
+  - sample_output.mid
 
 ## Technical Notes
 
