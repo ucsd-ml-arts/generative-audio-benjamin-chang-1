@@ -67,6 +67,7 @@ For the "Random Interpolation" section, make sure to first run the code section 
 The final code section was written to mix and play the resulting audio files, but is commented out due to this project ending up using a webapp mixer which was able to reverse audio files much easier. The section can be used if needed. If used, make sure to upload the audio files that are going to be mixed into Colab.
 
 SOUND TRAP (Audio Mixing)
+
 Upload the following audio sounds files
   - We_Are_Family_Disco_WAV.wav (obtained from interpolating wearefamily.mid)
   - 65854__bosone__haunting-violin-fx.wav
