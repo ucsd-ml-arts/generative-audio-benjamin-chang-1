@@ -11,7 +11,7 @@ The idea is as follows: 1. Generate Music tracks using Performance RNN
                         3. Generate new sound tracks modified using GANSynth
                         4. Mix together a horror background soundtrack using an audio mixer
 
-Future directions for this work could include generating a greater variety of background sounds and exploring more than just the 
+A reasonably spooky and haunting background track was successfully created. Future directions for this work could include generating a greater variety of background sounds and exploring more than just the limited sound manipulation methods used in this project. 
 
 ## Model/Data
 
