@@ -21,6 +21,7 @@ Models
 
 Data
 -Unmodified_Data 
+  - wearefamily.mid
   - 65854__bosone__haunting-violin-fx.wav
   
 - Interpolated_Data
@@ -76,3 +77,6 @@ https://github.com/tensorflow/magenta/tree/master/magenta/models/gansynth
 Audio Mixer Webapp
 soundtrap.com
 
+Audio Data
+http://midi-disco.chat.ru/disco-midi/index1.html
+https://freesound.org/people/bosone/sounds/65854/
